@@ -292,7 +292,7 @@ header {
 }
 
 .padding-left {
-  padding-left: 50px;
+  padding-left: 120px;
 }
 
 .align-center {
@@ -343,9 +343,10 @@ ol {
 }
 
 .add-padding-between {
-padding-left: 350px;
+padding-left: 600px;
 }
 
 .add-padding-between-words {
-  padding-left: 1px;
+  text-align: center;
+  padding-right: 50px;
 }
